@@ -1,0 +1,2 @@
+# New-Energy-Vehicle-Market-and-Competitive-Intelligence-System
+Personal portfolio built to offset my lack of formal automotive analytics internship. Simulates a full product planning internship workflow: public NEV data → data dictionary → SQL ETL → Power BI star-schema/DAX → 8 KPIs → 5 actionable insights. Proves I can turn raw market data into business-ready deliverables without prior corporate experience.
